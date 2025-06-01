@@ -5,12 +5,12 @@ A modular Discord bot built using `discord.py`, featuring cog-based command orga
 
 ## Features
 
-**Modular Cog System** (`main.py + cmds/*.py`)
-`家興:圖片` – Send a random image from a preset list
-`家興:ping` – Check bot latency
-Auto welcome/farewell messages on member join/leave
-Configurable via `setting.json`
-Ready for production and extensible
+**Modular Cog System** (`main.py + cmds/*.py`)<br>
+`家興:圖片` – Send a random image from a preset list<br>
+`家興:ping` – Check bot latency<br>
+Auto welcome/farewell messages on member join/leave<br>
+Configurable via `setting.json`<br>
+Ready for production and extensible<br>
 
 ## Requirements
 
