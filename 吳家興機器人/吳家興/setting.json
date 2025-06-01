@@ -1,0 +1,10 @@
+{
+   "TOKEN":"your token",
+   "your server":"your server ID",
+
+   "pic": [
+    "pic/p1.jpg",
+    "pic/p2.jpg"
+  ]
+
+}

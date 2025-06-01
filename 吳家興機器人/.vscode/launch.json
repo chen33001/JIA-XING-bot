@@ -1,0 +1,11 @@
+{
+  "name": "Python: Launch 吳家興.main",
+  "type": "python",
+  "request": "launch",
+  "module": "吳家興.main",
+  "cwd": "${workspaceFolder}",
+  "env": {
+    "PYTHONPATH": "${workspaceFolder}"
+  },
+  "console": "integratedTerminal"
+}
